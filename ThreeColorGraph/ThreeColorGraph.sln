@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeColorGraphLib", "ThreeColorGraphLib\ThreeColorGraphLib.csproj", "{9C831552-BCA6-451A-8416-DCD173945B0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeColorGraphConsoleApp", "ThreeColorGraphConsoleApp\ThreeColorGraphConsoleApp.csproj", "{17B30E97-D09F-46FF-B12D-93C05ABA974B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C831552-BCA6-451A-8416-DCD173945B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C831552-BCA6-451A-8416-DCD173945B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C831552-BCA6-451A-8416-DCD173945B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C831552-BCA6-451A-8416-DCD173945B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B30E97-D09F-46FF-B12D-93C05ABA974B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B30E97-D09F-46FF-B12D-93C05ABA974B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B30E97-D09F-46FF-B12D-93C05ABA974B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B30E97-D09F-46FF-B12D-93C05ABA974B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74B8A584-8C80-49EA-A78F-8EB4DDE31CBC}
+	EndGlobalSection
+EndGlobal
